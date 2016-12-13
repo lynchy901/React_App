@@ -15,6 +15,7 @@ class Header extends React.Component {
       return (
          <div>
             <h1>Header</h1>
+            <button type = "button" className = "btn btn-danger">Danger Button</button>
          </div>
       );
    }
