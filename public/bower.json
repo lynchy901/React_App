@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/lynchy901/React_App",
+  "authors": [
+    "Miles H. McArdle-Coe <stealth106@dejazzd.com>"
+  ],
+  "description": "public folder",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
